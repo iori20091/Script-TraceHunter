@@ -53,26 +53,6 @@ tar -czf "TraceHunter_${HOSTNAME}_${date_time}.tar.gz" "$COLLECTED_DIR"
 echo -e "\e[1;32m Coleta concluída com sucesso!!!! O arquivo foi gerado: $OUTPUT_FILE\e[0m"
 
 
-echo -e "\e[1;32                   -` 		\042[0m"
-echo -e "\e[1;32                  .o+` 		\042[0m"
-echo -e "\e[1;32                 `ooo/		\042[0m"
-echo -e "\e[1;32                `+ooo:		\042[0m"
-echo -e "\e[1;32               `+ooooo:		\042[0m"
-echo -e "\e[1;32              -+ooooooo+:	\042[0m"
-echo -e "\e[1;32             `/:-:++oooo+:	\042[0m"
-echo -e "\e[1;32            `/++++/++++++++	\042[0m"
-echo -e "\e[1;32           `/++++++++++++++:		\042[0m"
-echo -e "\e[1;32          `/+++ooooooooooooo/`		\042[0m"
-echo -e "\e[1;32         ./ooosssso++osssssso+`		\042[0m"
-echo -e "\e[1;32        .oossssso-````/ossssss+`		\042[0m"
-echo -e "\e[1;32       -osssssso.      :ssssssso.		\042[0m"
-echo -e "\e[1;32      :osssssss/        osssso+++.		\042[0m"
-echo -e "\e[1;32     /ossssssss/         +ssss000/-		\042[0m"
-echo -e "\e[1;32`   /ossssso+/:-         -:/+osssso+-		\042[0m"
-echo -e "\e[1;32   `+sso+:-`                  `°-/+oso:		\042[0m"
-echo -e "\e[1;32  `++:.                            `-/+/	\042[0m"
-echo -e "\e[1;32 .`                                     .	\042[0m"
-
 
 
 
