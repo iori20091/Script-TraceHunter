@@ -51,9 +51,7 @@ OUTPUT_FILE="TraceHunter_$HOSTNAME $DATETIME.tar.gz"
 tar -czf "TraceHunter_${HOSTNAME}_${date_time}.tar.gz" "$COLLECTED_DIR"
 
 echo -e "\e[1;32m Coleta concluída com sucesso!!!! O arquivo foi gerado: $OUTPUT_FILE\e[0m"
-
 echo -e "\e\n\n\n        \e[0m"
-
 
 echo -e "\e[1;32                   -¨ 				\042[0m"
 echo -e "\e[1;32                  .o+¨ 				\042[0m"
